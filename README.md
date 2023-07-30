@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ananya P</h1>
 <h3 align="center">A passionate result oriented engineer from India focused on AI,ML and Cloud technologies</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif">
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif">
 
 - 🔭 I’m currently working on **MERN(fullstack)**
 
