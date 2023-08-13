@@ -2,7 +2,7 @@
 <h3 align="center">A passionate result oriented engineer from India focused on AI,ML and Cloud technologies</h3>
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif">
-- 🙋‍♀️**GDSC Lead'22 , Google certified cloud digital leader** 
+<h4>GDSC Lead'22 , Google certified cloud digital leader🙋‍♀️</h4>
 
 - 🌱 I’m currently learning **salesforce,MERN and Gen AI**
 
