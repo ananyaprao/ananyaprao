@@ -2,8 +2,7 @@
 <h3 align="center">A passionate result oriented engineer from India focused on AI,ML and Cloud technologies</h3>
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif">
-
-- 🔭 I’m currently working on **MERN(fullstack)**
+- 🙋‍♀️**GDSC Lead'22 , Google certified cloud digital leader** 
 
 - 🌱 I’m currently learning **salesforce,MERN and Gen AI**
 
@@ -12,6 +11,8 @@
 - 📫 How to reach me **ananya13prasanna@gmail.com**
 
 - 📄 Know about my experiences [https://rb.gy/avc74](https://rb.gy/avc74)
+
+- I am looking for internships 👀
 
 - ⚡ Fun fact **I love Anime ✨**
 
