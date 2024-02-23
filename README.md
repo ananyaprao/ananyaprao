@@ -4,9 +4,9 @@
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif">
 <h4>GDSC Lead'22 , Google certified cloud digital leader🙋‍♀️</h4>
 
-- 🌱 I’m currently learning **salesforce,MERN and Gen AI**
+- 🌱 I’m currently learning **MERN**
 
-- 👯 I’m looking to collaborate on **Gen AI**
+- 👯 I’m looking to collaborate on **Machine learning projects**
 
 - 📫 How to reach me **ananya13prasanna@gmail.com**
 
